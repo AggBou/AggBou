@@ -15,3 +15,4 @@ I enjoy low-level programming, emulation and tinkering with embedded devices.
 
 - [Midi-Generator](https://github.com/AggBou/Midi-Generator)  
 - [Midi-Converter](https://github.com/AggBou/Midi-Converter)
+- [Christmas Project](https://github.com/AggBou/Christmas-Project)
