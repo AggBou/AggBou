@@ -8,8 +8,8 @@ I enjoy low-level programming, emulation and tinkering with embedded devices.
 
 ## 💻 Skills
 
-- **Languages:** Python, C, Bash, Lua  
-- **Frameworks & Tools:** Git  
+- **Languages:** Python, C, Bash, Lua, Typescript, Javascript
+- **Frameworks & Tools:** Git, NodeJs, Podman, Docker
 
 ## 📂 Projects
 
