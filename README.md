@@ -9,10 +9,14 @@ I enjoy low-level programming, emulation and tinkering with embedded devices.
 ## 💻 Skills
 
 - **Languages:** Python, C, Bash, Lua  
-- **Frameworks & Tools:** Git
+- **Frameworks & Tools:** Git  
 
 ## 📂 Projects
 
 - [Midi-Generator](https://github.com/AggBou/Midi-Generator)  
-- [Midi-Converter](https://github.com/AggBou/Midi-Converter)
-- [Christmas Project](https://github.com/AggBou/Christmas-Project)
+- [Midi-Converter](https://github.com/AggBou/Midi-Converter)  
+- [Christmas Project](https://github.com/AggBou/Christmas-Project)  
+
+## 🏆 Achievements
+
+- Gold medalist in the Hellenic Championship STEM 2026
